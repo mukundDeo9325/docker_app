@@ -1,5 +1,5 @@
 # docker_app
-
+```
 3-tier-app/
 │
 ├── frontend/
@@ -17,3 +17,4 @@
 │   └── init.sql
 │
 └── docker-compose.yml
+```
